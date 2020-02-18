@@ -27,7 +27,7 @@
 - Use of lodash to filter the arrays
 - Use of express to create and handle server requests 
 --Promises concept used to read Server Files for Courses and render them to Clients
-## Steps to Start using :
+## Steps to Start using Website:
  - Download the Zip file and unzip it 
  - In vscode inside the Directory of project type command to install all the required modules 
      - Command to install all the modules : **npm install**
