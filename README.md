@@ -2,11 +2,11 @@
 ## Here I have Created a simple E-Learning Website using Node js Server as Backend
 ### Objectives achieved :
 - Teachers can add new Courses from Teachers Page
-- Students can subscribe Courses and also remove Courses they don't want
-- Students have to register themselves first then and only they can add or remove courses 
-- Default Login is : 
-    - > user :  shank
-    - > password:  1234
+- Students have to register themselves first then or (**use Default Login provied below **) after that they can add or remove courses 
+ -Students can subscribe Courses and also remove Courses they don't want 
+- **Default Login is :** 
+    - > **user :  shank**
+    - > **password:  1234**
 - With the above login you can enter into System and can add or remove courses 
 
 # Node-Modules used :
