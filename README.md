@@ -3,7 +3,7 @@
 ### Objectives achieved :
 - Teachers can add new Courses from Teachers Page
 - Students have to register themselves first then or (**use Default Login provied below **) after that they can add or remove courses 
- -Students can subscribe Courses and also remove Courses they don't want 
+- Students can subscribe Courses and also remove Courses they don't want 
 - **Default Login is :** 
     - > **user :  shank**
     - > **password:  1234**
